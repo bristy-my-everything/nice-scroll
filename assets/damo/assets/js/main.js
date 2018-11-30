@@ -105,6 +105,7 @@
       cursorborder: "0px",
       cursorwidth: "10px",
       cursorborderradius: "3px",
+      zindex: "auto" | [99999999],
       background: "#3F3F3F"
     });
   };
